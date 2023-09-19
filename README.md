@@ -11,4 +11,8 @@ Este é o projeto do portfólio pessoal de Agata Domingues Farias, uma analista 
  ## Instruções de Uso
 - Faça o clone deste repositório em sua máquina local.
 - Abra os arquivos HTML em seu navegador preferido para visualizar o site.
-
+<p class="footer">Email: agatadominguestec@hotmail.com</p>
+    
+   
+<p class="footer">Link para o Portfólio: <a href="https://agatadominguesfarias.github.io/portifolio/">https://agatadominguesfarias.github.io/portifolio/</a></p>
+</footer>
